@@ -1,6 +1,6 @@
 const movies = [
     {
-        name: "O Filme 1",
+        name: "Barbie",
         image: "https://br.web.img3.acsta.net/pictures/23/07/21/20/50/4820227.jpg",
         date: "25 de Outubro, 2023",
         inTheaters: true,
@@ -9,17 +9,13 @@ const movies = [
         availableTickets: 150
     },
     {
-        name: "O Filme 2",
+        name: "Openhaimer",
         image: "https://br.web.img3.acsta.net/pictures/23/05/26/17/47/1900372.jpg",
         date: "28 de Outubro, 2023",
         inTheaters: true,
         releaseDate: "15 de Setembro, 2023",
         price: 10.99,
-        availableTickets: 100
-    },
-    {
-        name: "O Filme 3",
-        image: "URL_da_imagem_3.jpg",
+        availableTickmya_imagem_3.jpg",
         date: "10 de Novembro, 2023",
         inTheaters: true,
         releaseDate: "25 de Outubro, 2023",
@@ -27,7 +23,7 @@ const movies = [
         availableTickets: 120
     },
     {
-        name: "O Filme 4",
+        name: "Fnaf",
         image: "URL_da_imagem_4.jpg",
         date: "15 de Novembro, 2023",
         inTheaters: true,
@@ -36,7 +32,7 @@ const movies = [
         availableTickets: 90
     },
     {
-        name: "O Filme 5",
+        name: "Mario bros",
         image: "URL_da_imagem_5.jpg",
         date: "20 de Novembro, 2023",
         inTheaters: true,
@@ -45,7 +41,7 @@ const movies = [
         availableTickets: 150
     },
     {
-        name: "O Filme 6",
+        name: "Sorria",
         image: "URL_da_imagem_6.jpg",
         date: "25 de Novembro, 2023",
         inTheaters: true,
@@ -54,7 +50,7 @@ const movies = [
         availableTickets: 100
     },
     {
-        name: "O Filme 7",
+        name: "After",
         image: "URL_da_imagem_7.jpg",
         date: "30 de Novembro, 2023",
         inTheaters: true,
@@ -63,7 +59,7 @@ const movies = [
         availableTickets: 120
     },
     {
-        name: "O Filme 8",
+        name: "Avatar",
         image: "URL_da_imagem_8.jpg",
         date: "5 de Dezembro, 2023",
         inTheaters: true,
@@ -72,7 +68,7 @@ const movies = [
         availableTickets: 90
     },
     {
-        name: "O Filme 9",
+        name: "Gente Grande",
         image: "URL_da_imagem_9.jpg",
         date: "10 de Dezembro, 2023",
         inTheaters: true,
